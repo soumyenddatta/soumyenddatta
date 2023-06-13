@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... soumyendu1998@protonmail.com
 - I am courenty working with OpenSourch Community named [__APPARKY__](https://apparky.vercel.app/)
-- Click Here to find our [__GitHub__](github/Apparky) Page
+- Click Here to find our [__GitHub__](github.com/Apparky) Page
 
 <!---
 soumyenddatta/soumyenddatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
