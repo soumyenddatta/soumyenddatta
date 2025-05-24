@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyenddatta&theme=dark" />
   </a>
   <a href="https://github.com/soumyenddatta">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyendddatta&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=pie&card_width=699&hide_border=true&theme=highcontrast" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyenddatta&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=pie&card_width=699&hide_border=true&theme=highcontrast" />
   </a>
     <a href="https://github.com/soumyenddatta">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyenddatta&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=normal&card_width=699&hide_border=true&theme=shades-of-purple" />
