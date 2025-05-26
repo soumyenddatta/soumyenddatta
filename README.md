@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/soumyenddatta">
-    <img src="https://komarev.com/ghpvc/?username=Apparky&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=soumyenddatta&color=blue&style=flat)" />
   </a>
 </p>
 
